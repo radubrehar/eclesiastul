@@ -1,0 +1,12 @@
+{
+  "name": "eclesiastul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx chokidar-cli \"**/*.adoc\" -c \"asciidoctor {path}\"",
+    "serve": "npx live-server ."
+  },
+  "author": "",
+  "license": "ISC"
+}

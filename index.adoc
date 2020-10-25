@@ -1,0 +1,4 @@
+O incursiune in cartea Eclesiastul
+----------------------------------
+
+link:./introducere[Introducere]
