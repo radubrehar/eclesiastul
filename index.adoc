@@ -3,7 +3,7 @@ O incursiune in cartea Eclesiastul
 
 
 * link:./introducere[Introducere]
-* Capitolul 1 - studiu in 31 octombrie - va rog sa cititi intregul capitol
+* link:./capitolul-1[Capitolul 1]
 * Capitolul 2 - in curand
 * Capitolul 3 - in curand
 * Capitolul 4 - in curand
