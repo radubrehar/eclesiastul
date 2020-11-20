@@ -4,7 +4,7 @@ O incursiune in cartea Eclesiastul
 
 * link:./introducere[Introducere]
 * link:./capitolul-1[Capitolul 1]
-* Capitolul 2 - in curand
+* link:./capitolul-2[Capitolul 2]
 * Capitolul 3 - in curand
 * Capitolul 4 - in curand
 * Capitolul 5 - in curand
