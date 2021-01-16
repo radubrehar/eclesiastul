@@ -4,9 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "watch": "npx chokidar-cli \"**/*.adoc\" -c \"asciidoctor {path}\"",
-    "serve": "npx live-server ."
+    "watch": "chokidar \"**/*.adoc\" -c \"asciidoctor {path}\"",
+    "serve": "live-server ."
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chokidar-cli": "^2.1.0",
+    "live-server": "^1.2.1",
+    "npx": "^10.2.2"
+  }
 }
